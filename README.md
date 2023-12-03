@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/loar3k2l67fy0gox?svg=true)](https://ci.appveyor.com/project/TemaKoli/deliverycard)
